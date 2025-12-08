@@ -3,6 +3,7 @@
    I strive to improve my skills in programming and to enhance other skills such as creativity and problem solving.
 # 🏅 Certification
 * [SQL and Relational Databases 101]( https://courses.cognitiveclass.ai/certificates/98dd2f5bf75e492596501829eb1e4ecf)
+* [ Oracle Cloud Infrastructure (OCI) Foundations certification](https://catalog-education.oracle.com/pls/certview/sharebadge?id=505F179A281EB5FD5BE3720D468531496D8203EB117BD2106013236A2A418602)
 
 # 💻 Tech Stack:
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ibm_cloud.png" alt="IBM Cloud" title="IBM Cloud"/></code>
