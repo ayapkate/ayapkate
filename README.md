@@ -1,5 +1,5 @@
 # 🍵 Hi, I'm Kate!
-* A 2nd year computer science student in New Era University,
+* A 2nd year computer science student in [New Era University](https://neu.edu.ph/main/programs.html#CICS),
    I strive to improve my skills in programming and to enhance other skills such as creativity and problem solving.
 # 🏅 Certification
 * [SQL and Relational Databases 101]( https://courses.cognitiveclass.ai/certificates/98dd2f5bf75e492596501829eb1e4ecf)
